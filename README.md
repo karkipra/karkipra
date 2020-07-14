@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## I'm Pratik! A full intro is ████████████]99% there.
+
 <!--
 **karkipra/karkipra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
