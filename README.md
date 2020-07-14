@@ -3,7 +3,7 @@
 <img align='right' src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="230">
 
 
-<p><em>(Rescinded :weary:) Software Engineering Intern at Source Allies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Master's of Computer Scienec Student at University of Iowa <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>B.A. in Computer Science at Grinnell College <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>(Rescinded :weary:) Software Engineering Intern at Source Allies <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>Master's of Computer Science at the University of Iowa <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>B.A. in Computer Science at Grinnell College <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![pratikkarki.com](https://img.shields.io/static/v1?label=pratikkarki.com&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](http://pratikkarki.com/) [![Instagram](https://img.shields.io/static/v1?label=instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/pratikal.joke/) [![karkip@gmail.com](https://img.shields.io/static/v1?label=karkp@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:karkip@gmail.com)
