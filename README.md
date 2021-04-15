@@ -23,7 +23,7 @@ const pratik = {
                         teaching_assistant: "University of Iowa",
                         contributor: "Summer of Shipping"
                       },
- challenge: "Writing code, playing guitar, y ¡mejorando mi español durante la cuarantena!"
+ challenge: "Writing code, playing guitar, y ¡mejorando mi español durante la cuarentena!"
 }
 ```
 
